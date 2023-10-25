@@ -56,5 +56,3 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofionn&theme=dark" alt="ofionn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofionn&show_icons=true&theme=dark&locale=en" alt="ofionn" /></p>
-
