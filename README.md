@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/OfioNN?tab=repositories](https://github.com/OfioNN?tab=repositories)
 
-- 📫 How to reach me **dawid_szymik@wp.pl**
+- 📫 How to reach me **Anonymous@gmail.com**
 
 - ⚡ Fun fact **I make games.**
 
@@ -55,4 +55,6 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ofionn&show_icons=true&theme=dark&locale=en&layout=compact" alt="ofionn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofionn&theme=dark" alt="ofionn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofionn&show_icons=true&theme=dark&locale=en" alt="ofionn" /></p>
 
