@@ -1,32 +1,15 @@
-<!--
-**OfioNN/OfioNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Dawid Szymik</h1>
-<h3 align="center">I make games. 🎮</h3>
+<h3 align="center">I make apps alive 🧟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofionn&label=Profile%20views&color=0e75b6&style=flat-square" alt="ofionn" /> </p>
 
-- 🔭 I’m currently working on **Survival-Craft (private)**
+- 🔭 I’m currently working on **Movies app and Game(For Fun)**
 
-- 🌱 I’m currently learning **Reinforcement learning**
+- 🌱 I’m currently learning **Computer Vision/Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OfioNN?tab=repositories](https://github.com/OfioNN?tab=repositories)
 
-- 📫 How to reach me **Anonymous@gmail.com**
-
-- ⚡ Fun fact **I make games.**
+- 📫 How to reach me **dawid.szymik13@gmail.com**
 
 <p align="left">
 </p>
