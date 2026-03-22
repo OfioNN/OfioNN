@@ -12,9 +12,9 @@ I make apps alive 🧟
 ---
 
 ### 🚀 About Me
-- 🎯 **Focusing on:** Engineering thesis – smart band for detecting early infections and dehydration
-- 🔭 **Working on:** Label Controller (.NET desktop), Chat Zone (.NET web) and Autonomous Mini Car (embedded)
-- 🌱 **Currently learning:** Azure, Cloud Architecture & Artificial Intelligence
+- 🎯 **Focusing on** Engineering thesis – smart band for detecting early infections and dehydration
+- 🔭 **Working on** Label Controller (.NET desktop), Chat Zone (.NET web) and Autonomous Mini Car (embedded)
+- 🌱 **Currently learning** Azure, Cloud Architecture & Artificial Intelligence
 - 🧠 Strong interest in **backend development, system design & low-level programming**
 - 👨‍💻 All projects available here 👉 <a href="https://github.com/OfioNN?tab=repositories">GitHub Repositories</a>
 - 📫 Contact: **dawid.szymik01@gmail.com**
